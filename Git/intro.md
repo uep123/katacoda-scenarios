@@ -1,0 +1,1 @@
+Temel Git eğitimine hoşgeldiniz !
