@@ -1,0 +1,43 @@
+{
+  "title": "Temel Ağ Eğitimi",
+  "description": "Temel Linux Networking egitimi",
+  "difficulty": "beginner",
+  "time": "60 minutes",
+  "details": {
+    "steps": [{
+      "title": "Bolum 1",
+      "text": "step01.md",
+      "courseData": "setup.sh"
+    },
+    {
+      "title": "Bolum 3",
+      "text": "step03.md",
+      "courseData": "setup.sh"
+    },
+    {
+      "title": "Bolum 5 ",
+      "text": "step05.md",
+      "courseData": "setup.sh"
+    },
+    {
+      "title": "Bolum 7 ",
+      "text": "step07.md",
+      "courseData": "setup.sh"
+    }
+  ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "files": [],
+  "environment": {
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mThis is an interactive Bash Terminal in Ubuntu.\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
